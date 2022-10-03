@@ -1,0 +1,29 @@
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe.config
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.pdb
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csprojAssemblyReference.cache
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.exe
+C:\Users\Y540\source\repos\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.pdb
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe.config
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.pdb
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csprojAssemblyReference.cache
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.CoreCompileInputs.cache
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.exe
+D:\Universidad\Iot\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.pdb
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe.config
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.pdb
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.AssemblyReference.cache
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.exe
+C:\Users\Y540\Documents\2021-II\Internet de las cosas\Servidor Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.pdb
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe.config
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.exe
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\bin\Debug\Servidor Sockets.pdb
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.AssemblyReference.cache
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.SuggestedBindingRedirects.cache
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.csproj.CoreCompileInputs.cache
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.exe
+G:\UCB - Ingeniera de Sistemas\Semestre 2-2022\Internet de las Cosas\Trabajo-Sockets\Servidor Sockets\obj\Debug\Servidor Sockets.pdb
