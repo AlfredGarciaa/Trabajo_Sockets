@@ -63,7 +63,9 @@ namespace Servidor_Sockets
         }
     }
 }
-/*
+
+// Envio de datos como decision del servidor.
+
  void sendData(string value, Socket listener)
         {
             byte[] sendInfo = new byte[100];
@@ -133,7 +135,3 @@ namespace Servidor_Sockets
             Console.Clear();
         }
         Console.ReadKey();
-      }
-    }
-}
-*/
